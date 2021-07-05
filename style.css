@@ -10,24 +10,32 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
     padding: 5%;
 }
 .half-width img{
-    width: 80%;
+    width: 100%;
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange,red);
+    background-image: linear-gradient(rgb(45, 248, 79),rgb(103, 138, 236));
     padding:20px 40px;
     color: mintcream;
-    font-weight: 800;
+    font-weight: 600;
     border-radius: 40px;
 }
 .top-banner{
     background-image: url(image/Frame\ 59.jpg);
     background-repeat: no-repeat;
     
+}
+p{
+    color: rgb(255, 2, 2);
+}
+.pera-2{
+background-image: url(image/Group\ 8446.png);
+background-repeat: no-repeat;
 }
