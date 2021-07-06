@@ -27,28 +27,29 @@ h3{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(rgb(45, 248, 79),rgb(103, 138, 236));
+    background-image: linear-gradient(rgb(51, 233, 44),rgb(247, 243, 5));
     padding:20px 40px;
     color: mintcream;
     font-weight: 600;
     border-radius: 40px;
 }
 .top-banner{
-    background-image: url(image/Frame\ 59.jpg);
+    background-image: url(image/Project\ Cover.png);
     background-repeat: no-repeat;
     
 }
 p{
-    color: rgb(51, 58, 54);
+    color: rgb(255, 155, 40);
     font-size: 25px;
 
 }
 #-p-change{
-    color: rgb(25, 212, 125);
+    color: rgb(255, 104, 197);
 }
 .pera-2{
-background-image: url(image/Group\ 8446.png);
+background-image: url(image/gn.png);
 background-repeat: no-repeat;
+background-position: right;
 }
 .main-pera{
     background-image: url(image/7.png);
@@ -67,7 +68,7 @@ background-repeat: no-repeat;
     text-align: center;
 }
 #food-word{
-    color: greenyellow;
+    color: rgb(247, 235, 74);
 }
 #recipes{
     text-align: center;
@@ -75,4 +76,16 @@ background-repeat: no-repeat;
 .jamela-tamela{
     font-size: 20px;
     width: 50% 50%;
+}
+#pizza-photo{
+    background-image: url(image/Project\ Cover6.png);
+    background-repeat: no-repeat;
+}
+#biryani{
+    background-image: url(image/gb.jpg);
+    background-repeat: no-repeat;
+}
+#Masala-dosa{
+    background-image: url(image/gp.jpg);
+    background-repeat: no-repeat;
 }
