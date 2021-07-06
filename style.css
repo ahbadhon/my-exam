@@ -34,12 +34,12 @@ h3{
     border-radius: 40px;
 }
 .top-banner{
-    background-image: url(image/Project\ Cover.png);
+    background-image: url(image/Frame\ 57.jpg);
     background-repeat: no-repeat;
     
 }
 p{
-    color: rgb(87, 83, 79);
+    color: rgb(75, 209, 233);
     font-size: 20px;
 
 }
@@ -47,7 +47,7 @@ p{
     color: rgb(255, 104, 197);
 }
 .pera-2{
-background-image: url(image/gn.png);
+background-image: url(image/Frame\ 56.jpg);
 background-repeat: no-repeat;
 background-position: right;
 }
@@ -76,6 +76,10 @@ background-position: right;
 .jamela-tamela{
     font-size: 20px;
     width: 50% 50%;
+    text-align: center;
+    background-color: rgb(185, 135, 41);
+
+    
 }
 #pizza-photo{
     background-image: url(image/Project\ Cover6.png);
