@@ -8,7 +8,7 @@ h1{
 .Lima-color{
     color:lime ;
 }
-section{
+.My-peras{
     display: flex;
     margin-bottom: 150px;
 }
@@ -34,8 +34,28 @@ section{
 }
 p{
     color: rgb(255, 2, 2);
+
 }
 .pera-2{
 background-image: url(image/Group\ 8446.png);
 background-repeat: no-repeat;
+}
+.main-pera{
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.jamela{
+    width: 30%;
+    margin-right:5%;
+    margin-left: 5%;
+    padding-left:10Px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 40px gray;
+}
+#fotter-positio{
+    text-align: center;
+}
+#food-word{
+    color: greenyellow;
 }
