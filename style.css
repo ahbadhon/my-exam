@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 h1{
-    font-size: 60px;
+    font-size: 40px;
 }
 h2{
     font-size: 35px
@@ -39,8 +39,8 @@ h3{
     
 }
 p{
-    color: rgb(255, 155, 40);
-    font-size: 25px;
+    color: rgb(87, 83, 79);
+    font-size: 20px;
 
 }
 #-p-change{
@@ -57,7 +57,7 @@ background-position: right;
     background-position: left;
 }
 .jamela{
-    width: 30%;
+    width: 80%;
     margin-right:5%;
     margin-left: 5%;
     padding-left:5Px;
